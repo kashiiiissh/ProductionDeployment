@@ -86,7 +86,7 @@ week12-production-deployment/
 ⚙️ Setup Instructions
 1. Clone Repository
 Bash
-git clone https://github.com/username/week12-production-deployment.git
+git clone https://github.com/kashiiiissh/ProductionDeployment.git
 
 cd week12-production-deployment
 2. Build Frontend
